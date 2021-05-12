@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-5-breakpoint-react-hook",
+  "version": "1.0.0",
+  "description": "This React hook returns the current Bootstrap 5 breakpoint (xs, sm, md, lg, xl or xxl) based on the window width.",
+  "main": "src/useBreakpoint.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexWebLab/bootstrap-5-breakpoint-react-hook.git"
+  },
+  "keywords": [
+    "reactjs",
+    "hooks",
+    "bootstrap"
+  ],
+  "author": "AlexWebLab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexWebLab/bootstrap-5-breakpoint-react-hook/issues"
+  },
+  "homepage": "https://github.com/AlexWebLab/bootstrap-5-breakpoint-react-hook#readme"
+}
